@@ -3,7 +3,7 @@
 
 A web-based **Page Replacement Simulator** developed using **Python and Flask** to demonstrate and visualize important Operating System page replacement algorithms.
 
-The simulator allows users to enter a reference string, select the number of memory frames, and choose a page replacement algorithm. It then simulates the selected algorithm and displays page hits, page faults, hit ratio, fault ratio, and the frame-by-frame replacement process.
+The simulator allows users to enter a reference string, select the number of memory frames, and choose a page replacement algorithm. It then simulates the selected algorithm and displays page hits, page faults, hit ratio, fault ratio, and the frame-by-frame replacement process. 
 
 ## Algorithms Implemented
 
