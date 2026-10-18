@@ -9,7 +9,7 @@ The simulator allows users to enter a reference string, select the number of mem
 
 * **FIFO (First-In, First-Out)** – Replaces the page that has been in memory for the longest time.
 * **LRU (Least Recently Used)** – Replaces the page that has not been used for the longest period.
-* **Optimal Page Replacement** – Replaces the page that will not be used for the longest time in the future.
+* **Optimal Page Replacement** – Replaces the page that will not be used for the longest time in the future. 
 
 ## Features
 
