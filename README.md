@@ -1,5 +1,5 @@
 # PAGE_REPLACEMENT_STIMULATOR
-# Page Replacement Simulator
+# Page Replacement Simulator  
 
 A web-based **Page Replacement Simulator** developed using **Python and Flask** to demonstrate and visualize important Operating System page replacement algorithms.
 
