@@ -5,7 +5,8 @@ A web-based **Page Replacement Simulator** developed using **Python and Flask** 
 
 The simulator allows users to enter a reference string, select the number of memory frames, and choose a page replacement algorithm. It then simulates the selected algorithm and displays page hits, page faults, hit ratio, fault ratio, and the frame-by-frame replacement process. 
 
-## Algorithms Implemented
+## Algorithms Implemented  
+
 
 * **FIFO (First-In, First-Out)** – Replaces the page that has been in memory for the longest time. 
 * **LRU (Least Recently Used)** – Replaces the page that has not been used for the longest period.
